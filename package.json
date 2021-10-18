@@ -9,7 +9,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Glen Costigan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gcostigan/convertenv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gcostigan/convertenv/issues"
+  },
+  "homepage": "https://github.com/gcostigan/convertenv",
+  "author": "Glen Costigan <glen.costigan@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "commander": "^8.2.0",

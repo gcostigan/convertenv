@@ -1,0 +1,19 @@
+{
+  "name": "convertenv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "bin": {
+    "convertenv": "index.mjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Glen Costigan",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.2.0",
+    "inquirer": "^8.2.0",
+    "xml2js": "^0.4.23"
+  }
+}
